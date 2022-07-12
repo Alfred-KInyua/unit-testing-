@@ -199,6 +199,9 @@
   "scripts": {
      "test": "jest"
   },
+  "jest": {
+    "verbose": true
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Alfred-KInyua/unit-testing-.git"
