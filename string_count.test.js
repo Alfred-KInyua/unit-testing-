@@ -1,9 +1,9 @@
 const stringLength= require('./string_count');
 test('Returns the length of a string', ()=>{
 //Act
-const stringCount ="Alfred"
+const stringCount ="njauKInyua"
 //Assign
 const storage = stringLength(stringCount);
 //Assert
-expect(storage).toBe(6);
+expect(storage).toBe(10);
 });
